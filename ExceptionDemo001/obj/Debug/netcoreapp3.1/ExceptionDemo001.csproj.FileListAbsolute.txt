@@ -1,0 +1,13 @@
+C:\Users\SachaSIMON\source\repos\ExceptionDemo001\ExceptionDemo001\bin\Debug\netcoreapp3.1\ExceptionDemo001.exe
+C:\Users\SachaSIMON\source\repos\ExceptionDemo001\ExceptionDemo001\bin\Debug\netcoreapp3.1\ExceptionDemo001.deps.json
+C:\Users\SachaSIMON\source\repos\ExceptionDemo001\ExceptionDemo001\bin\Debug\netcoreapp3.1\ExceptionDemo001.runtimeconfig.json
+C:\Users\SachaSIMON\source\repos\ExceptionDemo001\ExceptionDemo001\bin\Debug\netcoreapp3.1\ExceptionDemo001.runtimeconfig.dev.json
+C:\Users\SachaSIMON\source\repos\ExceptionDemo001\ExceptionDemo001\bin\Debug\netcoreapp3.1\ExceptionDemo001.dll
+C:\Users\SachaSIMON\source\repos\ExceptionDemo001\ExceptionDemo001\bin\Debug\netcoreapp3.1\ExceptionDemo001.pdb
+C:\Users\SachaSIMON\source\repos\ExceptionDemo001\ExceptionDemo001\obj\Debug\netcoreapp3.1\ExceptionDemo001.csprojAssemblyReference.cache
+C:\Users\SachaSIMON\source\repos\ExceptionDemo001\ExceptionDemo001\obj\Debug\netcoreapp3.1\ExceptionDemo001.AssemblyInfoInputs.cache
+C:\Users\SachaSIMON\source\repos\ExceptionDemo001\ExceptionDemo001\obj\Debug\netcoreapp3.1\ExceptionDemo001.AssemblyInfo.cs
+C:\Users\SachaSIMON\source\repos\ExceptionDemo001\ExceptionDemo001\obj\Debug\netcoreapp3.1\ExceptionDemo001.csproj.CoreCompileInputs.cache
+C:\Users\SachaSIMON\source\repos\ExceptionDemo001\ExceptionDemo001\obj\Debug\netcoreapp3.1\ExceptionDemo001.dll
+C:\Users\SachaSIMON\source\repos\ExceptionDemo001\ExceptionDemo001\obj\Debug\netcoreapp3.1\ExceptionDemo001.pdb
+C:\Users\SachaSIMON\source\repos\ExceptionDemo001\ExceptionDemo001\obj\Debug\netcoreapp3.1\ExceptionDemo001.genruntimeconfig.cache
